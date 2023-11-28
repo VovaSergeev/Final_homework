@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+	<stock sellerId="1" productId="1" price="5.00" quantity="10" />
+	<stock sellerId="1" productId="2" price="7.00" quantity="8" />
+	<stock sellerId="1" productId="3" price="3.00" quantity="15" />
+	<stock sellerId="1" productId="4" price="4.00" quantity="12" />
+	<stock sellerId="1" productId="5" price="2.00" quantity="20" />
+	<stock sellerId="2" productId="1" price="4.50" quantity="9" />
+	<stock sellerId="2" productId="2" price="6.50" quantity="7" />
+	<stock sellerId="2" productId="3" price="2.50" quantity="14" />
+	<stock sellerId="2" productId="4" price="3.50" quantity="11" />
+	<stock sellerId="2" productId="5" price="1.50" quantity="19" />
+	<stock sellerId="3" productId="1" price="5.50" quantity="11" />
+	<stock sellerId="3" productId="2" price="7.50" quantity="9" />
+	<stock sellerId="3" productId="3" price="3.50" quantity="16" />
+	<stock sellerId="3" productId="4" price="4.50" quantity="13" />
+	<stock sellerId="3" productId="5" price="2.50" quantity="21" />
+	<stock sellerId="4" productId="1" price="4.00" quantity="8" />
+	<stock sellerId="4" productId="2" price="6.00" quantity="6" />
+	<stock sellerId="4" productId="3" price="2.00" quantity="13" />
+	<stock sellerId="4" productId="4" price="3.00" quantity="10" />
+	<stock sellerId="4" productId="5" price="1.00" quantity="18" />
+	<stock sellerId="5" productId="1" price="6.00" quantity="12" />
+	<stock sellerId="5" productId="2" price="8.00" quantity="10" />
+	<stock sellerId="5" productId="3" price="4.00" quantity="17" />
+	<stock sellerId="5" productId="4" price="5.00" quantity="14" />
+	<stock sellerId="5" productId="5" price="3.00" quantity="22" />
+</stocks>

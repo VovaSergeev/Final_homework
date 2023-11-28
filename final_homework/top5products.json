@@ -1,0 +1,22 @@
+[
+  {
+    "id": 5,
+    "name": "Ice cream"
+  },
+  {
+    "id": 3,
+    "name": "Fries"
+  },
+  {
+    "id": 4,
+    "name": "Hot dog"
+  },
+  {
+    "id": 1,
+    "name": "Burger"
+  },
+  {
+    "id": 2,
+    "name": "Pizza"
+  }
+]

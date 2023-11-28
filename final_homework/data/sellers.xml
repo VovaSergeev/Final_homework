@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sellers>
+	<seller id="1" lastName="Smith" firstName="John" />
+	<seller id="2" lastName="Brown" firstName="Peter" />
+	<seller id="3" lastName="Jones" firstName="Sid" />
+	<seller id="4" lastName="Miller" firstName="Sam" />
+	<seller id="5" lastName="Wilson" firstName="Kate" />
+</sellers>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product id="1" name="Burger" />
+	<product id="2" name="Pizza" />
+	<product id="3" name="Fries" />
+	<product id="4" name="Hot dog" />
+	<product id="5" name="Ice cream" />
+</products>
